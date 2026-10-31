@@ -113,7 +113,6 @@ Stop.
     S --> T[/Display Not Eligible Students/]
     T --> U([End])
     ...
-    8. Conclusion
 The University Scholarship Allocation System successfully evaluates student applications based on academic marks, subject-wise minimum scores, attendance, and family income.
 
 It automatically identifies eligible students, ranks them according to academic performance, and resolves ties using predefined criteria.
