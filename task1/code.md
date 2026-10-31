@@ -76,7 +76,7 @@ Display the eligible students in ranked order.
 Display students who are not eligible.
 
 Stop.
-... Mermaid flowchat ...
+....
 
     A([Start]) --> B[/Enter Number of Students/]
     B --> C[/Enter Student Details/]
