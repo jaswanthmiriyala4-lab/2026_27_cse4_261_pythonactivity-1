@@ -86,4 +86,3 @@ print("\nNot Eligible Students:")
 for student in students:
     if student["status"] == "Not Eligible":
         print(student["name"])
-
