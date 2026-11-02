@@ -1,6 +1,6 @@
 University Scholarship Allocation System Using Python
 1. Problem Statement
-Design and develop a University Scholarship Allocation System using Python to evaluate student applications based on academic performance, attendance, and family income.
+Design and develop a University Scholarship Allocation System using Python to evaluate student applications based on academic performance, attendance, and family income
 
 The system should:
 
