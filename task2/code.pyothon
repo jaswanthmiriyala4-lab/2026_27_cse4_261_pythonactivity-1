@@ -1,6 +1,5 @@
 
 # Progressive Electricity Billing System
-
 # Billing Constants
 FIXED_CHARGE = 50
 SURCHARGE_RATE = 0.05
